@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple Computer//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>a</key>
+	<string>a.glif</string>
+	<key>a.layer00</key>
+	<string>a.layer00.glif</string>
+	<key>a.layer01</key>
+	<string>a.layer01.glif</string>
+	<key>a.layer02</key>
+	<string>a.layer02.glif</string>
+	<key>a.layer03</key>
+	<string>a.layer03.glif</string>
+	<key>a.layer04</key>
+	<string>a.layer04.glif</string>
+	<key>g</key>
+	<string>g.glif</string>
+	<key>g.layer00</key>
+	<string>g.layer00.glif</string>
+	<key>g.layer01</key>
+	<string>g.layer01.glif</string>
+	<key>g.layer02</key>
+	<string>g.layer02.glif</string>
+	<key>g.layer03</key>
+	<string>g.layer03.glif</string>
+	<key>g.layer04</key>
+	<string>g.layer04.glif</string>
+	<key>g.layer05</key>
+	<string>g.layer05.glif</string>
+	<key>g.layer06</key>
+	<string>g.layer06.glif</string>
+	<key>space</key>
+	<string>space.glif</string>
+</dict>
+</plist>

@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="a.layer03" format="1">
+  <advance width="600"/>
+  <outline>
+    <contour>
+      <point x="450" y="-10" type="curve"/>
+      <point x="526" y="-10"/>
+      <point x="550" y="50"/>
+      <point x="550" y="150" type="curve"/>
+      <point x="524" y="150" type="line"/>
+      <point x="482" y="150"/>
+      <point x="502" y="150"/>
+      <point x="432" y="150" type="curve"/>
+      <point x="381" y="99"/>
+      <point x="347" y="42"/>
+      <point x="375" y="14" type="curve" smooth="yes"/>
+      <point x="391" y="-2"/>
+      <point x="415" y="-10"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.fontfont.colorfont.layers</key>
+      <array>
+        <array>
+          <string>a.layer03</string>
+        </array>
+        <array>
+          <integer>4</integer>
+        </array>
+      </array>
+      <key>com.fontfont.colorfont.svg</key>
+      <string></string>
+      <key>com.typemytype.robofont.mark</key>
+      <array>
+        <real>0.5133</real>
+        <real>1.0</real>
+        <real>0.9066</real>
+        <real>1.0</real>
+      </array>
+    </dict>
+  </lib>
+</glyph>

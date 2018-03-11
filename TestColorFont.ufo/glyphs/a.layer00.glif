@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="a.layer00" format="1">
+  <advance width="600"/>
+  <outline>
+    <contour>
+      <point x="276" y="570" type="curve" smooth="yes"/>
+      <point x="209" y="570"/>
+      <point x="125" y="551"/>
+      <point x="75" y="521" type="curve"/>
+      <point x="75" y="500" type="line"/>
+      <point x="75" y="440"/>
+      <point x="115" y="400"/>
+      <point x="175" y="400" type="curve" smooth="yes"/>
+      <point x="225" y="400"/>
+      <point x="250" y="420"/>
+      <point x="300" y="420" type="curve" smooth="yes"/>
+      <point x="350" y="420"/>
+      <point x="392" y="400"/>
+      <point x="431" y="350" type="curve"/>
+      <point x="487" y="350"/>
+      <point x="500" y="468"/>
+      <point x="456" y="512" type="curve" smooth="yes"/>
+      <point x="419" y="549"/>
+      <point x="358" y="570"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.fontfont.colorfont.layers</key>
+      <array>
+        <array>
+          <string>a.layer00</string>
+        </array>
+        <array>
+          <integer>0</integer>
+        </array>
+      </array>
+      <key>com.fontfont.colorfont.svg</key>
+      <string></string>
+      <key>com.typemytype.robofont.mark</key>
+      <array>
+        <real>0.5133</real>
+        <real>1.0</real>
+        <real>0.9066</real>
+        <real>1.0</real>
+      </array>
+    </dict>
+  </lib>
+</glyph>
