@@ -6,10 +6,16 @@
 	<integer>800</integer>
 	<key>capHeight</key>
 	<integer>700</integer>
+	<key>copyright</key>
+	<string>Stephen Nixon</string>
 	<key>descender</key>
 	<integer>-200</integer>
 	<key>familyName</key>
 	<string>TestColorFont</string>
+	<key>openTypeNameDesigner</key>
+	<string>Stephen Nixon</string>
+	<key>openTypeNameDesignerURL</key>
+	<string>stephennixon.com</string>
 	<key>openTypeOS2Panose</key>
 	<array>
 		<integer>2</integer>
@@ -57,6 +63,8 @@
 	<string>Regular</string>
 	<key>unitsPerEm</key>
 	<integer>1000</integer>
+	<key>versionMajor</key>
+	<integer>1</integer>
 	<key>xHeight</key>
 	<integer>550</integer>
 </dict>

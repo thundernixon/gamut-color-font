@@ -42,15 +42,15 @@
 		</dict>
 		<dict>
 			<key>0</key>
-			<string>#00002899</string>
+			<string>#00000099</string>
 			<key>1</key>
-			<string>#00002899</string>
+			<string>#00000099</string>
 			<key>2</key>
-			<string>#00002899</string>
+			<string>#00000099</string>
 			<key>3</key>
-			<string>#00002899</string>
+			<string>#00000099</string>
 			<key>4</key>
-			<string>#00002899</string>
+			<string>#00000099</string>
 		</dict>
 	</array>
 	<key>com.fontfont.colorfont.prefer_placed_images</key>
@@ -106,10 +106,24 @@
 	<key>com.typemytype.robofont.sort</key>
 	<array>
 		<dict>
-			<key>allowPseudoUnicode</key>
-			<true/>
+			<key>ascending</key>
+			<array>
+				<string>space</string>
+				<string>a.layer00</string>
+				<string>g.layer00</string>
+				<string>a.layer01</string>
+				<string>g.layer01</string>
+				<string>a.layer02</string>
+				<string>g.layer02</string>
+				<string>a.layer03</string>
+				<string>g.layer03</string>
+				<string>a.layer04</string>
+				<string>g.layer04</string>
+				<string>g.layer05</string>
+				<string>g.layer06</string>
+			</array>
 			<key>type</key>
-			<string>cannedDesign</string>
+			<string>glyphList</string>
 		</dict>
 	</array>
 	<key>public.glyphOrder</key>
@@ -127,6 +141,8 @@
 		<string>g.layer04</string>
 		<string>g.layer05</string>
 		<string>g.layer06</string>
+		<string>a</string>
+		<string>g</string>
 	</array>
 </dict>
 </plist>
