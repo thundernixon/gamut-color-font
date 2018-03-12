@@ -30,27 +30,27 @@
 		</dict>
 		<dict>
 			<key>0</key>
-			<string>#ff4f0a99</string>
+			<string>#341B0099</string>
 			<key>1</key>
-			<string>#00baff99</string>
+			<string>#23195A99</string>
 			<key>2</key>
-			<string>#00e36199</string>
+			<string>#52003499</string>
 			<key>3</key>
-			<string>#7241de99</string>
+			<string>#00411699</string>
 			<key>4</key>
-			<string>#ff41ad99</string>
+			<string>#001C5099</string>
 		</dict>
 		<dict>
 			<key>0</key>
-			<string>#ff4f0a99</string>
+			<string>#00000099</string>
 			<key>1</key>
-			<string>#00baff99</string>
+			<string>#00000099</string>
 			<key>2</key>
-			<string>#00e36199</string>
+			<string>#00000099</string>
 			<key>3</key>
-			<string>#7241de99</string>
+			<string>#00000099</string>
 			<key>4</key>
-			<string>#ff41ad99</string>
+			<string>#00000099</string>
 		</dict>
 	</array>
 	<key>com.fontfont.colorfont.prefer_placed_images</key>
